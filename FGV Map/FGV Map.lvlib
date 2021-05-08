@@ -31,5 +31,8 @@
 		<Item Name="FGV Map Set Data.vi" Type="VI" URL="../FGV Map/Modify Data/FGV Map Set Data.vi"/>
 		<Item Name="FGV Map Delete Data.vi" Type="VI" URL="../FGV Map/Modify Data/FGV Map Delete Data.vi"/>
 	</Item>
+	<Item Name="Examples" Type="Folder">
+		<Item Name="FGV Map Example.vi" Type="VI" URL="../FGV Map/Examples/FGV Map Example.vi"/>
+	</Item>
 	<Item Name="FGV Map Core.vi" Type="VI" URL="../FGV Map/FGV Map Core.vi"/>
 </Library>
