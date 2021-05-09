@@ -12,7 +12,7 @@
 		<Item Name="FGV Map Core State.ctl" Type="VI" URL="../FGV Map/Controls/FGV Map Core State.ctl"/>
 	</Item>
 	<Item Name="Init &amp; DeInit" Type="Folder">
-		<Item Name="FGV Map DeInit.vi" Type="VI" URL="../FGV Map/Init DeInit/FGV Map DeInit.vi"/>
+		<Item Name="FGV Map DeInit (Do Not Use).vi" Type="VI" URL="../FGV Map/Init DeInit/FGV Map DeInit (Do Not Use).vi"/>
 		<Item Name="FGV Map Init.vi" Type="VI" URL="../FGV Map/Init DeInit/FGV Map Init.vi"/>
 	</Item>
 	<Item Name="Get Data" Type="Folder">
